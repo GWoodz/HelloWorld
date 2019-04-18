@@ -13,14 +13,14 @@ Testing Solidity,
 
 # Install:
 ### Git
-* `git clone https://github.com/GWoodz/hello-ethereum-salon-contract.git`
+* `git clone https://github.com/GWoodz/HelloWorld.git`
 ### Zip
-* `wget -c https://github.com/GWoodz/Courses.git \ && unzip hello-ethereum-salon-contract\ && rm -f hello-ethereum-salon-contract`
+* `wget -c https://github.com/GWoodz/Courses.git \ && unzip hello-ethereum-salon-contract\ && rm -f HelloWorld`
 
 
 # Running Program:
 * Open terminal
-* `cd hello-ethereum-salon-contract`
+* `cd HelloWorld`
 * `sudo truffle compile`
 * `sudo truffle migrate --reset`
 
